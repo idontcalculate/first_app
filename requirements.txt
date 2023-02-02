@@ -3,3 +3,5 @@ tensorflow_hub
 tensorflow-text ==2.11
 tensorflow_text==2.11
 scikit-learn
+uvicorn 
+fast-api
