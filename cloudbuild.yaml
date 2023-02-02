@@ -3,3 +3,4 @@ steps:
     args: ['build', '-t', 'gcr.io/bert-fresh/first_app', '.']
   - name: 'gcr.io/cloud-builders/docker'
     args: ['push', 'gcr.io/bert-fresh/first_app']
+    #comment 
