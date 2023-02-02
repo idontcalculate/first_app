@@ -1,0 +1,1 @@
+creating an app, docker image and gcp img 
